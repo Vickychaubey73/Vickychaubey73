@@ -39,7 +39,5 @@
 ---
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](www.linkedin.com/in/
-vicky-chaubey
-Vanity URL name
-)  [![Email](https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](
+).  [![Email](https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge)](mailto:YOUR_EMAIL)
