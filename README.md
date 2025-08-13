@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Vicky</h1>
-<h3 align="center">🚀 Full Stack Developer | Python Programmer | Tech Enthusiast</h3>
+<h1 align="center">✨ Crafting Ideas into Reality with Code ✨</h1>
+<h3 align="center">Full Stack Developer | Java & Python Programmer | Tech Explorer 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F700&center=true&vCenter=true&width=440&lines=Passionate+Coder;Full+Stack+Developer;Python+%7C+MERN+Stack;Love+Problem+Solving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F0FF&background=00000000&center=true&vCenter=true&width=700&lines=Turning+Coffee+Into+Quality+Code;Full+Stack+Developer+%7C+Java+%26+Python+Specialist;Building+Responsive+%26+Dynamic+Web+Applications;Exploring+AI+and+Next-Gen+Technologies;Lifelong+Learner+and+Problem+Solver;Open+Source+Contributor+and+Team+Player" alt="Typing SVG" />
 </p>
-
----
 
 ### 🧑‍💻 About Me  
 - 🌱 Currently learning *DSA, MERN Stack, and Python*  
@@ -17,7 +15,7 @@
 
 ### 🛠 Skills & Tools  
 *Languages & Frameworks:*  
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=flat)  ![React](https://img.shields.io/badge/-React-blue?logo=react&style=flat)  ![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&style=flat)  ![MongoDB](https://img.shields.io/badge/-MongoDB-green?logo=mongodb&style=flat)  ![Express.js](https://img.shields.io/badge/-Express.js-black?logo=express&style=flat)  ![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=html5&style=flat)  ![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&style=flat) ![Java](https://img.shields.io/badge/-Java-orange?logo=java&logoColor=white&style=flat)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)  ![Java](https://img.shields.io/badge/-Java-orange?logo=java&logoColor=white&style=flat)  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=flat)  ![React](https://img.shields.io/badge/-React-blue?logo=react&style=flat)  ![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&style=flat)  ![MongoDB](https://img.shields.io/badge/-MongoDB-green?logo=mongodb&style=flat)   ![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=html5&style=flat)  ![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&style=flat) 
 
 *Tools & Platforms:*  
 ![Git](https://img.shields.io/badge/-Git-red?logo=git&style=flat)  ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=flat)  ![Postman](https://img.shields.io/badge/-Postman-orange?logo=postman&style=flat)  ![VS Code](https://img.shields.io/badge/-VSCode-blue?logo=visualstudiocode&style=flat)  ![Firebase](https://img.shields.io/badge/-Firebase-yellow?logo=firebase&style=flat)  
@@ -25,9 +23,21 @@
 ---
 
 ### 📌 Projects
-1. *E-Commerce Website* - Full-fledged platform with authentication, product catalog, and checkout (React, Node.js, MongoDB)  
-2. *Social Media Platform* - User interactions, post creation, and profile management (Express, MongoDB)  
 
+1. *Restaurant Website System* 🍽  
+   - *Tech Stack:* HTML, CSS, JavaScript  
+   - A fully responsive restaurant website with menu showcase, table booking, and contact form.  
+   - [View Project](https://github.com/Vickychaubey73/restaurant-website-system)  
+
+2. *NetBanking System* 💳  
+   - *Tech Stack:* Java, Spring Boot  
+   - Secure net banking application with user authentication, fund transfer, and transaction history.  
+   - [View Project](https://github.com/Vickychaubey73/netbanking-system)  
+
+3. *AI Virtual Assistant* 🤖  
+   - *Tech Stack:* HTML, CSS, JavaScirpt  
+   - An AI-powered voice assistant capable of answering queries, opening applications, and performing tasks.  
+   - [View Project](https://github.com/Vickychaubey73/ai-virtual-assistant)
 ---
 
 ### 📊 GitHub Stats  
