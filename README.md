@@ -17,7 +17,7 @@
 
 ### 🛠 Skills & Tools  
 *Languages & Frameworks:*  
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=flat)  ![React](https://img.shields.io/badge/-React-blue?logo=react&style=flat)  ![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&style=flat)  ![MongoDB](https://img.shields.io/badge/-MongoDB-green?logo=mongodb&style=flat)  ![Express.js](https://img.shields.io/badge/-Express.js-black?logo=express&style=flat)  ![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=html5&style=flat)  ![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&style=flat)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=flat)  ![React](https://img.shields.io/badge/-React-blue?logo=react&style=flat)  ![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&style=flat)  ![MongoDB](https://img.shields.io/badge/-MongoDB-green?logo=mongodb&style=flat)  ![Express.js](https://img.shields.io/badge/-Express.js-black?logo=express&style=flat)  ![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=html5&style=flat)  ![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&style=flat) ![Java](https://img.shields.io/badge/-Java-orange?logo=java&logoColor=white&style=flat)  
 
 *Tools & Platforms:*  
 ![Git](https://img.shields.io/badge/-Git-red?logo=git&style=flat)  ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=flat)  ![Postman](https://img.shields.io/badge/-Postman-orange?logo=postman&style=flat)  ![VS Code](https://img.shields.io/badge/-VSCode-blue?logo=visualstudiocode&style=flat)  ![Firebase](https://img.shields.io/badge/-Firebase-yellow?logo=firebase&style=flat)  
