@@ -27,7 +27,7 @@
 1. *Restaurant Website System* 🍽  
    - *Tech Stack:* HTML, CSS, JavaScript  
    - A fully responsive restaurant website with menu showcase, table booking, and contact form.  
-   - [View Project](https://github.com/Vickychaubey73/restaurant-website-system)  
+   - [View Project](https://royal-bites.vercel.app/)  
 
 2. *NetBanking System* 💳  
    - *Tech Stack:* Java, Spring Boot  
