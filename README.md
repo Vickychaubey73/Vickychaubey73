@@ -1,3 +1,15 @@
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:00F5D4,100:9B5DE5&text=VICKY-CHAUBEY&fontAlign=50&fontAlignY=35&fontSize=44&fontColor=ffffff" alt="header" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Vickychaubey73&theme=radical&no-frame=true&margin-w=5&row=1&column=6" alt="trophy" />
+</p> 
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:9B5DE5,100:00F5D4" alt="footer" />
+</p>
+
 <h1 align="center">✨ Crafting Ideas into Reality with Code ✨</h1>
 <h3 align="center">Full Stack Developer | Java & Python Programmer | Tech Explorer 🚀</h3>
 
@@ -48,5 +60,12 @@
 
 ---
 
+
+### 📈 Contribution Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vickychaubey73&bg_color=0D1117&color=00F0FF&line=FF69B4&point=FFFFFF&area=true&hide_border=true" alt="activity graph" />
+</p>
+
+---
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/vicky-chaubey/)            [![Email](https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge)](mailto:vickychaubey373@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/vicky-chaubey/)            [![Email](https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge)](mailto:vickychaubey373@gmail.com) 
