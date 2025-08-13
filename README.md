@@ -1,4 +1,4 @@
-![Banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo5aSGeIshXLxfxDnjo3xgLyB1HaC2M9gThA&s)
+![Banner](Vicky-Chaubey.jpg)
 
 
 <p align="center">
