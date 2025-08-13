@@ -32,12 +32,12 @@
 2. *NetBanking System* 💳  
    - *Tech Stack:* Java, Spring Boot  
    - Secure net banking application with user authentication, fund transfer, and transaction history.  
-   - [View Project](https://github.com/Vickychaubey73/netbanking-system)  
+   - [View Project](https://github.com/Vickychaubey73/NetBanking-System)  
 
 3. *AI Virtual Assistant* 🤖  
    - *Tech Stack:* HTML, CSS, JavaScirpt  
    - An AI-powered voice assistant capable of answering queries, opening applications, and performing tasks.  
-   - [View Project](https://github.com/Vickychaubey73/ai-virtual-assistant)
+   - [View Project](https://vickychaubey73.github.io/Ai_virtual_Assistant/)
 ---
 
 ### 📊 GitHub Stats  
