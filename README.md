@@ -1,7 +1,9 @@
+![Banner](Vicky.png)
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:00F5D4,100:9B5DE5&text=VICKY-CHAUBEY&fontAlign=50&fontAlignY=35&fontSize=44&fontColor=ffffff" alt="header" />
-</p>
+</p> 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Vickychaubey73&theme=radical&no-frame=true&margin-w=5&row=1&column=6" alt="trophy" />
 </p> 
